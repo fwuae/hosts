@@ -18946,14 +18946,14 @@ ff02::3 ip6-allhosts
 
 
 # You are free to copy and distribute this file for non-commercial uses,
-# as long the original URL and attribution is included. 
+# as long the original URL and attribution is included.
 
 # Please forward any additions, corrections or comments by logging an issue at
 # https://github.com/mitchellkrogza/Badd-Boyz-Hosts/issues
 
 # This list of hosts is compiled from server logs on my own servers
 # and forms the basis of the bad referrers domain lists for
-# The Nginx Ultimate Bad Bot Blocker at: 
+# The Nginx Ultimate Bad Bot Blocker at:
 # https://github.com/mitchellkrogza/nginx-ultimate-bad-bot-blocker
 # and the Apache Ultimate Bad Bot Blocker at:
 # https://github.com/mitchellkrogza/apache-ultimate-bad-bot-blocker
@@ -18964,9 +18964,9 @@ ff02::3 ip6-allhosts
 ##### Version Information ##
 
 # Use this file to prevent your computer or server from connecting to selected
-# internet hosts. This is an easy and effective way to protect you from 
-# many types of spyware, adware, malware, click-jacking and porn sites and reduces 
-# bandwidth use. 
+# internet hosts. This is an easy and effective way to protect you from
+# many types of spyware, adware, malware, click-jacking and porn sites and reduces
+# bandwidth use.
 
 # The file should be named "hosts" NOT "hosts.txt"
 
@@ -73021,9 +73021,9 @@ ff02::3 ip6-allhosts
 # This hosts file is brought to you by Dan Pollock and can be found at
 # http://someonewhocares.org/hosts/zero/
 # You are free to copy and distribute this file for non-commercial uses,
-# as long the original URL and attribution is included. 
-# 
-# This hosts file is proudly sponsored by adguard.com. 
+# as long the original URL and attribution is included.
+#
+# This hosts file is proudly sponsored by adguard.com.
 #
 # See below for acknowledgements.
 
@@ -73033,17 +73033,17 @@ ff02::3 ip6-allhosts
 # Last updated: Thu, 14 May 2026 at 22:36:37 GMT
 
 # Use this file to prevent your computer from connecting to selected
-# internet hosts. This is an easy and effective way to protect you from 
-# many types of spyware, reduces bandwidth use, blocks certain pop-up 
+# internet hosts. This is an easy and effective way to protect you from
+# many types of spyware, reduces bandwidth use, blocks certain pop-up
 # traps, prevents user tracking by way of "web bugs" embedded in spam,
 # provides partial protection to IE from certain web-based exploits and
-# blocks most advertising you would otherwise be subjected to on the 
-# internet. 
+# blocks most advertising you would otherwise be subjected to on the
+# internet.
 
-# There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0 
+# There is a version of this file that uses 127.0.0.1 instead of 0.0.0.0
 # available at http://someonewhocares.org/hosts/.
 # On some machines the zero version may run minutely faster, however it
-# may not be compatible with all systems. 
+# may not be compatible with all systems.
 
 # This file must be saved as a text file with no extension. (This means
 # that the file name should be exactly as below, without a ".txt" appended.)
@@ -73070,7 +73070,7 @@ ff02::3 ip6-allhosts
 # On a Netware system, the location is System\etc\hosts"
 # For Macintosh (pre OS X) place it in the Mac System Folder or Preferences
 #    folder and reboot. (something like HD:System Folder:Preferences:Hosts)
-#    Alternatively you can save it elsewhere on your machine, then go to the 
+#    Alternatively you can save it elsewhere on your machine, then go to the
 #    TCP/IP control panel and click on "Select hosts file" to read it in.
 #    ------------------
 #    | As well, note that the format is different on old macs, so
@@ -73102,12 +73102,12 @@ ff02::3 ip6-allhosts
 #</shortcut-examples>
 
 #<hijack-sites>
-# The sites ads234.com and ads345.com -- These sites hijack internet explorer 
-# and redirect all requests through their servers. You may need to use spyware 
-# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this 
-# nasty parasite. It's possible that blocking these sites using a hosts file 
+# The sites ads234.com and ads345.com -- These sites hijack internet explorer
+# and redirect all requests through their servers. You may need to use spyware
+# removal programs such as SpyBotS&amp;D, AdAware or HijackThis to remove this
+# nasty parasite. It's possible that blocking these sites using a hosts file
 # may not work, in which case you should remove the following lines from this
-# file and try the tools listed above immediately. Don't forget to reboot 
+# file and try the tools listed above immediately. Don't forget to reboot
 # after a scan.
 0.0.0.0 ads234.com
 0.0.0.0 ads345.com
@@ -73121,9 +73121,9 @@ ff02::3 ip6-allhosts
 # By entering domains here, it will prevent certain companies from
 # gathering information on your surfing habits. These servers do not
 # necessarily serve ads, instead some are used by certain products to
-# "phone home". Others use web cookies to gather statistics on surfing 
-# habits. Among other uses, this is a common tactic by spammers, to 
-# let them know that you have read your mail. 
+# "phone home". Others use web cookies to gather statistics on surfing
+# habits. Among other uses, this is a common tactic by spammers, to
+# let them know that you have read your mail.
 # Uncomment (remove the #) the lines that you wish to block, as some
 # may provide you with services you like.
 
@@ -73131,23 +73131,23 @@ ff02::3 ip6-allhosts
 #0.0.0.0 auto.search.msn.com  # Microsoft uses this server to redirect
                                 # mistyped URLs to search engines. They
                                 # log all such errors.
-#0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game 
+#0.0.0.0 sitefinder.verisign.com	# Verisign has joined the game
 #0.0.0.0 sitefinder-idn.verisign.com	# of trying to hijack mistyped
-					# URLs to their site. 
+					# URLs to their site.
 					# May break iOS Game Center.
 
-#0.0.0.0 s0.2mdn.net		# This may interfere with some streaming 
+#0.0.0.0 s0.2mdn.net		# This may interfere with some streaming
 				# video on sites such as cbc.ca
 #0.0.0.0 ad.doubleclick.net   # This may interefere with www.sears.com
-				# and potentially other sites. 
+				# and potentially other sites.
 0.0.0.0 media.fastclick.net # Likewise, this may interfere with some
 #0.0.0.0 ebay.doubleclick.net		# may interfere with ebay
 #0.0.0.0 google-analytics.com			# breaks some sites
 #0.0.0.0 ssl.google-analytics.com
 #0.0.0.0 www.google-analytics.l.google.com
-#0.0.0.0 stat.livejournal.com		# There are reports that this may mess 
+#0.0.0.0 stat.livejournal.com		# There are reports that this may mess
  					# up CSS on livejournal
-#0.0.0.0 stats.surfaid.ihost.com	# This has been known cause 
+#0.0.0.0 stats.surfaid.ihost.com	# This has been known cause
 					# problems with NPR.org
 #0.0.0.0 www.google-analytics.com		# breaks some sites
 #0.0.0.0 ads.imeem.com		# Seems to interfere with the functioning of imeem.com
@@ -73186,7 +73186,7 @@ ff02::3 ip6-allhosts
 0.0.0.0 adelogs.adobe.com #See http://www.theregister.co.uk/2014/10/07/adobe_digital_editions_4_caught_snooping_into_ebook_collections_of_users/
 0.0.0.0 ademails.com
 0.0.0.0 adlog.com.com # Used by Ziff Davis to serve
-  # ads and track users across 
+  # ads and track users across
   # the com.com family of sites
 0.0.0.0 admin.iovation.com
 0.0.0.0 adpatrof.com
@@ -77687,7 +77687,7 @@ ff02::3 ip6-allhosts
 #</maybe-ads>
 
 # ads
- 
+
 #0.0.0.0 aax-eu.amazon-adsystem.com 	# may interfere with Amazon ad preferences
 #0.0.0.0 s.amazon-adsystem.com	# may interfere with Amazon ad preferences
 0.0.0.0 0101011.com
@@ -83694,7 +83694,7 @@ ff02::3 ip6-allhosts
 
 #<ecard-scam-sites>
 
-# malicious e-card -- these sites send out mass quantities of spam 
+# malicious e-card -- these sites send out mass quantities of spam
 	# and some distribute adware and spyware
 0.0.0.0 123greetings.com # contains one link to distributor of adware or spyware
 0.0.0.0 2000greetings.com
@@ -83728,7 +83728,7 @@ ff02::3 ip6-allhosts
 
 #<wiki-spam-sites>
 
-# message board and wiki spam -- these sites are linked in 
+# message board and wiki spam -- these sites are linked in
 	# message board spam and are unlikely to be real sites
 0.0.0.0 21jewelry.com
 0.0.0.0 24x7.soliday.org
@@ -84218,7 +84218,7 @@ ff02::3 ip6-allhosts
 
 #<Windows10>
 
-# Windows 10 reporting domains. 
+# Windows 10 reporting domains.
 0.0.0.0 adnexus.net
 0.0.0.0 az361816.vo.msecnd.net
 0.0.0.0 az512334.vo.msecnd.net
@@ -84427,31 +84427,31 @@ ff02::3 ip6-allhosts
 # I'd like to thank the following people for submitting sites, and
 # helping promote the site.
 
-# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook, 
+# Bill Allison, Harj Basi, Lance Russhing, Marshall Drew-Brook,
 #  Leigh Brasington, Scott Terbush, Cary Newfeldt, Kaye, Jeff
 #  Scrivener, Mark Hudson, Matt Bells, T. Kim Nguyen, Lino Demasi,
 #  Marcelo Volmaro, Troy Martin, Donald Kerns, B.Patten-Walsh,
 #  bobeangi, Chris Maniscalco, George Gilbert, Kim Nilsson, zeromus,
-#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing 
+#  Robert Petty, Rob Morrison, Clive Smith, Cecilia Varni, OleKing
 #  Cole, William Jones, Brian Small, Raj Tailor, Richard Heritage,
-#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz, 
-#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas 
-#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson, 
+#  Alan Harrison, Ordorica, Crimson, Joseph Cianci, sirapacz,
+#  Dvixen, Matthew Craig, Tobias Hessem, Kevin F. Quinn, Thomas
+#  Corthals, Chris McBee, Jaime A. Guerra, Anders Josefson,
 #  Simon Manderson, Spectre Ghost, Darren Tay, Dallas Eschenauer, Cecilia
-#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike 
-#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus, 
+#  Varni, Adam P. Cole, George Lefkaditis, grzesiek, Adam Howard, Mike
+#  Bizon, Samuel P. Mallare, Leinweber, Walter Novak, Stephen Genus,
 #  Zube, Johny Provoost, Peter Grafton, Johann Burkard, Magus, Ron Karner,
-#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers, 
+#  Fredrik Dahlman, Michele Cybula, Bernard Conlu, Riku B, Twillers,
 #  Shaika-Dzari, Vartkes Goetcherian, Michael McCown, Garth, Richard Nairn,
 #  Exzar Reed, Robert Gauthier, Floyd Wilder, Mark Drissel, Kenny Lyons,
 #  Paul Dunne, Tirath Pannu, Mike Lambert, Dan Kolcun, Daniel Aleksandersen,
-#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles 
-#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey 
+#  Chris Heegard, Miles Golding, Daniel Bisca, Frederic Begou, Charles
+#  Fordyce, Mark Lehrer, Sebastien Nadeau-Jean, Russell Gordon, Alexey
 #  Gopachenko, Stirling Pearson, Alan Segal, Bobin Joseph, Chris Wall, Sean
 #  Flesch, Brent Getz, Jerry Cain, Brian Micek, Lee Hancock, Kay Thiele,
-#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas 
+#  Kwan Ting Chan, Wladimir Labeikovsky, Lino Demasi, Bowie Bailey, Andreas
 #  Marschall, Michael Tompkins, Michael O'Donnell, Jos&eacute; Lucas Teixeira
-#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build 
+#  de Oliveira, M. &Ouml;mer G&ouml;lgeli, and Anthony Gelibert for helping to build
 #  the hosts file.
 # Russell O'Connor for OS/2 information
 # kwadronaut for Windows 7 and Vista information
@@ -158700,7 +158700,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 images.starzbabes.com
 0.0.0.0 stayhomeporntubes.net
 0.0.0.0 staz.me
-0.0.0.0 steamunlocked.net
 0.0.0.0 steezylist.com
 0.0.0.0 stellam.info
 0.0.0.0 stepbrothersex.com
@@ -175474,190 +175473,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 z-p42-static.cdninstagram.com
 0.0.0.0 scontent.fallback.cdninstagram.com
 
-# Whatsapp
-0.0.0.0 account.whatsapp.com
-0.0.0.0 alpha.whatsapp.com
-0.0.0.0 api.whatsapp.com
-0.0.0.0 autodiscover.whatsapp.com
-0.0.0.0 beta.whatsapp.com
-0.0.0.0 betablog.whatsapp.com
-0.0.0.0 blog.whatsapp.com
-0.0.0.0 cdn.whatsapp.net
-0.0.0.0 chat.cdn.whatsapp.net
-0.0.0.0 chat.whatsapp.com
-0.0.0.0 crashlogs.whatsapp.net
-0.0.0.0 dev-web.whatsapp.com
-0.0.0.0 dit.whatsapp.net
-0.0.0.0 dyn.web.whatsapp.com
-0.0.0.0 e1.whatsapp.net
-0.0.0.0 e10.whatsapp.net
-0.0.0.0 e11.whatsapp.net
-0.0.0.0 e12.whatsapp.net
-0.0.0.0 e13.whatsapp.net
-0.0.0.0 e14.whatsapp.net
-0.0.0.0 e15.whatsapp.net
-0.0.0.0 e16.whatsapp.net
-0.0.0.0 e2.whatsapp.net
-0.0.0.0 e3.whatsapp.net
-0.0.0.0 e4.whatsapp.net
-0.0.0.0 e5.whatsapp.net
-0.0.0.0 e6.whatsapp.net
-0.0.0.0 e7.whatsapp.net
-0.0.0.0 e8.whatsapp.net
-0.0.0.0 e9.whatsapp.net
-0.0.0.0 faq.whatsapp.com
-0.0.0.0 g.whatsapp.net
-0.0.0.0 gamma.whatsapp.com
-0.0.0.0 graph.whatsapp.net
-0.0.0.0 m.whatsapp.com
-0.0.0.0 media-ams2-1.cdn.whatsapp.net
-0.0.0.0 media-ams3-1.cdn.whatsapp.net
-0.0.0.0 media-ams4-1.cdn.whatsapp.net
-0.0.0.0 media-amt2-1.cdn.whatsapp.net
-0.0.0.0 media-arn2-1.cdn.whatsapp.net
-0.0.0.0 media-atl3-1.cdn.whatsapp.net
-0.0.0.0 media-ber1-1.cdn.whatsapp.net
-0.0.0.0 media-bog2-1.cdn.whatsapp.net
-0.0.0.0 media-bru2-1.cdn.whatsapp.net
-0.0.0.0 media-cdt1-1.cdn.whatsapp.net
-0.0.0.0 media-dfw5-1.cdn.whatsapp.net
-0.0.0.0 media-dfw5-2.cdn.whatsapp.net
-0.0.0.0 media-dus1-1.cdn.whatsapp.net
-0.0.0.0 media-fra3-1.cdn.whatsapp.net
-0.0.0.0 media-fra3-2.cdn.whatsapp.net
-0.0.0.0 media-fra5-1.cdn.whatsapp.net
-0.0.0.0 media-frt3-1.cdn.whatsapp.net
-0.0.0.0 media-frt3-2.cdn.whatsapp.net
-0.0.0.0 media-frx5-1.cdn.whatsapp.net
-0.0.0.0 media-iad3-1.cdn.whatsapp.net
-0.0.0.0 media-iad3-2.cdn.whatsapp.net
-0.0.0.0 media-lax3-1.cdn.whatsapp.net
-0.0.0.0 media-lax3-2.cdn.whatsapp.net
-0.0.0.0 media-lga3-1.cdn.whatsapp.net
-0.0.0.0 media-lga3-2.cdn.whatsapp.net
-0.0.0.0 media-lhr3-1.cdn.whatsapp.net
-0.0.0.0 media-lhr6-1.cdn.whatsapp.net
-0.0.0.0 media-lhr6-2.cdn.whatsapp.net
-0.0.0.0 media-lhr8-1.cdn.whatsapp.net
-0.0.0.0 media-lhr8-2.cdn.whatsapp.net
-0.0.0.0 media-lht6-1.cdn.whatsapp.net
-0.0.0.0 media-mad1-1.cdn.whatsapp.net
-0.0.0.0 media-mia3-1.cdn.whatsapp.net
-0.0.0.0 media-mia3-2.cdn.whatsapp.net
-0.0.0.0 media-mxp1-1.cdn.whatsapp.net
-0.0.0.0 media-ord5-1.cdn.whatsapp.net
-0.0.0.0 media-ord5-2.cdn.whatsapp.net
-0.0.0.0 media-ort2-1.cdn.whatsapp.net
-0.0.0.0 media-ort2-2.cdn.whatsapp.net
-0.0.0.0 media-otp1-1.cdn.whatsapp.net
-0.0.0.0 media-qro1-1.cdn.whatsapp.net
-0.0.0.0 media-qro1-2.cdn.whatsapp.net
-0.0.0.0 media-sea1-1.cdn.whatsapp.net
-0.0.0.0 media-sin6-1.cdn.whatsapp.net
-0.0.0.0 media-sjc3-1.cdn.whatsapp.net
-0.0.0.0 media-sof1-1.cdn.whatsapp.net
-0.0.0.0 media-vie1-1.cdn.whatsapp.net
-0.0.0.0 media-waw1-1.cdn.whatsapp.net
-0.0.0.0 media-xsp1-1.cdn.whatsapp.net
-0.0.0.0 media-yyz1-1-cdn.whatsapp.net
-0.0.0.0 media.fabj2-1.fna.whatsapp.net
-0.0.0.0 media.fada1-2.fna.whatsapp.net
-0.0.0.0 media.fads1-1.fna.whatsapp.net
-0.0.0.0 media.fbed1-2.fna.whatsapp.net
-0.0.0.0 media.fbel3-1.fna.whatsapp.net
-0.0.0.0 media.fcgh5-1.fna.whatsapp.net
-0.0.0.0 media.fcgk9-1.fna.whatsapp.net
-0.0.0.0 media.fdel11-1.fna.whatsapp.net
-0.0.0.0 media.fdel3-1.fna.whatsapp.net
-0.0.0.0 media.feoh3-1.fna.whatsapp.net
-0.0.0.0 media.fevn1-1.fna.whatsapp.net
-0.0.0.0 media.ffjr1-1.fna.whatsapp.net
-0.0.0.0 media.ffjr1-3.fna.whatsapp.net
-0.0.0.0 media.fgye1-1.fna.whatsapp.net
-0.0.0.0 media.fhel2-1.fna.whatsapp.net
-0.0.0.0 media.fhel3-1.fna.whatsapp.net
-0.0.0.0 media.fisu5-1.fna.whatsapp.net
-0.0.0.0 media.flim6-1.fna.whatsapp.net
-0.0.0.0 media.flos2-1.fna.whatsapp.net
-0.0.0.0 media.fmnl10-1.fna.whatsapp.net
-0.0.0.0 media.fplu6-1.fna.whatsapp.net
-0.0.0.0 media.fprg2-1.fna.whatsapp.net
-0.0.0.0 media.frec2-1.fna.whatsapp.net
-0.0.0.0 media.frix1-1.fna.whatsapp.net
-0.0.0.0 media.frix4-1.fna.whatsapp.net
-0.0.0.0 media.fskg1-1.fna.whatsapp.net
-0.0.0.0 media.fssa13-1.fna.whatsapp.net
-0.0.0.0 media.fsst1-2.fna.whatsapp.net
-0.0.0.0 media.fsyq1-1.fna.whatsapp.net
-0.0.0.0 media.ftpe4-1.fna.whatsapp.net
-0.0.0.0 media.fykz1-1.fna.whatsapp.net
-0.0.0.0 media.fyxd2-1.fna.whatsapp.net
-0.0.0.0 media.fzty2-1.fna.whatsapp.net
-0.0.0.0 media.whatsapp.com
-0.0.0.0 mme.whatsapp.net
-0.0.0.0 mme6.whatsapp.net
-0.0.0.0 mmg-fna.whatsapp.net
-0.0.0.0 mmg.whatsapp.net
-0.0.0.0 mmi244.whatsapp.net
-0.0.0.0 mmi269.whatsapp.net
-0.0.0.0 mmi479.whatsapp.net
-0.0.0.0 mmi483.whatsapp.net
-0.0.0.0 mmi651.whatsapp.net
-0.0.0.0 mmi701.whatsapp.net
-0.0.0.0 mmi731.whatsapp.net
-0.0.0.0 mms.whatsapp.net
-0.0.0.0 mmx-ds.cdn.whatsapp.net
-0.0.0.0 pps.whatsapp.net
-0.0.0.0 ratings.whatsapp.com
-0.0.0.0 scontent.whatsapp.net
-0.0.0.0 static.whatsapp.net
-0.0.0.0 translate-dev.whatsapp.com
-0.0.0.0 translate.whatsapp.com
-0.0.0.0 up.web.whatsapp.com
-0.0.0.0 v.whatsapp.com
-0.0.0.0 v.whatsapp.net
-0.0.0.0 w1.web.whatsapp.com
-0.0.0.0 w2.web.whatsapp.com
-0.0.0.0 w3.web.whatsapp.com
-0.0.0.0 w4.web.whatsapp.com
-0.0.0.0 w5.web.whatsapp.com
-0.0.0.0 w6.web.whatsapp.com
-0.0.0.0 w7.web.whatsapp.com
-0.0.0.0 w8.web.whatsapp.com
-0.0.0.0 w9.web.whatsapp.com
-0.0.0.0 web.whatsapp.com
-0.0.0.0 whatsapp-cdn-shv-01-arn2.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-atl1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-bom1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-cdg2.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-dft4.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-dfw1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-dfw5.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-frt3.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-gru2.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-hkg3.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-iad3.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-kut2.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-lax1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-lax3.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-lga1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-lhr3.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-mad1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-mia1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-ord1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-sea1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-sin1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-sin6.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-sit4.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-sjc2.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-01-vie1.fbcdn.net
-0.0.0.0 whatsapp-cdn-shv-02-sin6.fbcdn.net
-0.0.0.0 whatsapp.com
-0.0.0.0 whatsapp.net
-0.0.0.0 www-cdn.whatsapp.net
-0.0.0.0 www.whatsapp.com
-0.0.0.0 wwwl.whatsapp.com
-
 # Threads
 0.0.0.0 threads.net
 0.0.0.0 www.threads.net
@@ -176186,82 +176001,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 v.tumblr.com
 0.0.0.0 vt.tumblr.com
 0.0.0.0 www.tumblr.com
-
-# Reddit
-0.0.0.0 a.thumbs.redditmedia.com
-0.0.0.0 about.reddit.com
-0.0.0.0 accounts.reddit.com
-0.0.0.0 alb.reddit.com
-0.0.0.0 amp-reddit-com.cdn.ampproject.org
-0.0.0.0 b.thumbs.redditmedia.com
-0.0.0.0 c.thumbs.redditmedia.com
-0.0.0.0 d.thumbs.redditmedia.com
-0.0.0.0 e.reddit.com
-0.0.0.0 e.thumbs.redditmedia.com
-0.0.0.0 embed.reddit.com
-0.0.0.0 emoji.redditmedia.com
-0.0.0.0 en.reddit.com
-0.0.0.0 events.reddit.com
-0.0.0.0 external-preview.redd.it
-0.0.0.0 f.thumbs.redditmedia.com
-0.0.0.0 fr.reddit.com
-0.0.0.0 g.redditmedia.com
-0.0.0.0 gateway.reddit.com
-0.0.0.0 gp.reddit.com
-0.0.0.0 gql-fed.reddit.com
-0.0.0.0 gql-realtime.reddit.com
-0.0.0.0 gql.reddit.com
-0.0.0.0 hw.reddit.com
-0.0.0.0 i.redd.it
-0.0.0.0 i.reddit.com
-0.0.0.0 i.redditmedia.com
-0.0.0.0 i.reddituploads.com
-0.0.0.0 it.reddit.com
-0.0.0.0 m.reddit.com
-0.0.0.0 meta-api.reddit.com
-0.0.0.0 mod.reddit.com
-0.0.0.0 new.reddit.com
-0.0.0.0 np.reddit.com
-0.0.0.0 oauth.reddit.com
-0.0.0.0 old.reddit.com
-0.0.0.0 oops.redditmedia.com
-0.0.0.0 out.reddit.com
-0.0.0.0 pixel.redditmedia.com
-0.0.0.0 preview.redd.it
-0.0.0.0 redd.it
-0.0.0.0 reddit-image.s3.amazonaws.com
-0.0.0.0 reddit-stream.com
-0.0.0.0 reddit-uploaded-media.s3-accelerate.amazonaws.com
-0.0.0.0 reddit-uploaded-video.s3-accelerate.amazonaws.com
-0.0.0.0 reddit.com
-0.0.0.0 reddit.map.fastly.net
-0.0.0.0 redditama.reddit.com
-0.0.0.0 redditblog.com
-0.0.0.0 redditgifts.com
-0.0.0.0 redditgifts.s3.amazonaws.com
-0.0.0.0 redditmedia.com
-0.0.0.0 s.reddit.com
-0.0.0.0 s.redditmedia.com
-0.0.0.0 sendbird.reddit.com
-0.0.0.0 ssl.reddit.com
-0.0.0.0 static.redditgifts.com
-0.0.0.0 stats.redditmedia.com
-0.0.0.0 strapi.reddit.com
-0.0.0.0 styles.redditmedia.com
-0.0.0.0 us.reddit.com
-0.0.0.0 v.redd.it
-0.0.0.0 w3-reporting-csp.reddit.com
-0.0.0.0 w3-reporting-nel.reddit.com
-0.0.0.0 w3-reporting.reddit.com
-0.0.0.0 wh.reddit.com
-0.0.0.0 www.np.reddit.com
-0.0.0.0 www.reddit-stream.com
-0.0.0.0 www.reddit.com
-0.0.0.0 www.redditblog.com
-0.0.0.0 www.redditgifts.com
-0.0.0.0 www.redditinc.com
-0.0.0.0 www.redditmedia.com
-0.0.0.0 www.redditstatic.com
 
 # TikTok
 0.0.0.0 abtest-sg-tiktok.byteoversea.com
